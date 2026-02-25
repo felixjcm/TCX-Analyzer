@@ -10,6 +10,7 @@ A Python-based tool designed to analyze activity data from TCX files. This proje
 - **Modular Design:** Separate modules for parsing and analysis for easy scalability.
 
 ## Sample Output
+```
 ------------------------------
 RUNNING PERFORMANCE SUMMARY
 ------------------------------
@@ -19,6 +20,7 @@ Avg HR:    162 bpm
 Pace:      5:12 min/km
 Speed:     11.53 km/h
 ------------------------------
+```
 
 ## Project Structure
 
